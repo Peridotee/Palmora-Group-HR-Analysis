@@ -31,6 +31,16 @@ The dashboard explores employee demographics, distribution, and disparities in r
 - Gender imbalance in managerial roles.
 - Disparities in regional employee distributions.
 - Media backlash due to perceived gender bias.
+- 
+![Average Salary By Location](https://github.com/user-attachments/assets/0ce72b39-c4a2-4c09-9817-e41442d570aa)
+
+![Average Salary By Department](https://github.com/user-attachments/assets/29eca06b-eb41-4fcb-a415-a4bdb2f071a2)
+
+![Average Salary by Gender](https://github.com/user-attachments/assets/99b215d4-b76f-405a-a105-f4861c68e3ec)
+
+![Employee Count by Location and Gender](https://github.com/user-attachments/assets/49697268-7007-4812-8724-99a211cb3413)
+
+![Employee Count by Department and Gender](https://github.com/user-attachments/assets/32cd9a6a-47fc-4572-8cd1-59d2d6c2aed2)
 
 
 ✅ ## __Conclusion__
@@ -61,10 +71,20 @@ Establish and enforce uniform criteria for evaluating employee performance acros
   
 Clearly communicate compensation structures and career advancement opportunities to all employees.
 
-- Advance Gender Inclusion
-  
+- Advance Gender Inclusiont
+
 Promote visibility and participation of all gender identities, particularly those underrepresented in leadership.
 
 - Assess Regional Compensation Schemes
   
 Reevaluate and update pay frameworks where notable geographic salary differences are identified.
+
+## Analyst - Benita Oghojafor Mahmud 
+
+- This is my second DSA project. I am thrilled about my progress
+
+  __email__ mahmudbenita@gmail.com
+
+  __Phone__ 07038406172
+  
+
